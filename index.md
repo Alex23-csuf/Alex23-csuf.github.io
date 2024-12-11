@@ -23,4 +23,4 @@ I am a student at CSUF majoring in computer engineering.
   This lab was my favorite because I enjoyed writing the code and working with my partner. 
   It was a fun lab and to be able to find the length and width of a rectangle. 
   It was also nice to see the numbers we would plug in into the terminal and get the answer that was needed. 
-   Every time we tested numbers, the program gave us the correct answer we needed.
+  Every time we tested numbers, the program gave us the correct answer we needed.
